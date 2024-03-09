@@ -29,7 +29,7 @@ export default function Banner() {
         <div>
           <p>version: {bannerData.version} </p>
           </div>
-      )}
+      )};
     </div>
   );
 }
